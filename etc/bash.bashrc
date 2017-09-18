@@ -14,7 +14,7 @@ export HISTCONTROL="ignoreboth"
 # set terminal title
 case "${TERM}" in
     xterm*|rxvt*)
-        TERM_TITLE="\[\e]0;AArch64 Tiny Chroot [\w]\a\]"
+        TERM_TITLE="\[\e]0;Termux (glibc) [\w]\a\]"
         ;;
     *)
         ;;
