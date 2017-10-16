@@ -1,5 +1,5 @@
 # AArch64-Tiny-Chroot
-A very basic Linux environment for chroot (AArch64 architecture), can be used with [termux-rootfs](https://github.com/xeffyr/termux-rootfs).
+A very basic Linux environment for chroot (AArch64 architecture).
 Available software should be enough for compiling kernel or something else.
 
 ## Installed software
